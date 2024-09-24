@@ -10,7 +10,7 @@ yd \<word\>
 The \<word\> parameter could be in English or Chinese.
 if in English, the output will be:
 
-- <b>Pronouciations</b> in English and American English. (<font color='#32CD32'><b>Green</b></font> Colored)
+- <b>Pronouciations</b> in English and American English. ($${\color{green}Green}$$ Colored)
 - <b>Interpretations</b>. (<font color='orange'><b>Orange</b></font>  colored)
 - <b>Example sentences</b>. (<font color='purple'><b>Purple</b></font>  colored)
 
