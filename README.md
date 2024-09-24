@@ -5,7 +5,7 @@ A command line youdao dictionary tool under windows.
 Download the yd.bat file and set system path variable for it.
 
 # usage
-`yd <word\`
+`yd <word>`
 
 The \<word\> parameter could be in English or Chinese.
 if in English, the output will be:
