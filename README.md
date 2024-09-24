@@ -37,11 +37,11 @@ Having said that, there's really nothing so dead as The Norton Anthology of Engl
 
 # prerequisite
 1. software dependencies
-    - jq : for urlencoding
-    - curl : for fetching html content from website
-    - pup : css selector
-    - sed : for removing \n<br />
+- jq : for urlencoding
+- curl : for fetching html content from website
+- pup : css selector
+- sed : for removing \n<br />
 
-        All above tools could be easily installed with scoop/choco, e.g. `scoop install jq`
+  All above tools could be easily installed with scoop/choco, e.g. `scoop install jq`
 
 2. When running yd.bat, the current path should be writable, because ydict_bat creates some temporary files when running.
