@@ -12,7 +12,27 @@ if in English, the output will be:
 
 - <b>Pronouciations</b> in English and American English. ($${\color{green}Green}$$ Colored)
 - <b>Interpretations</b>. ($${\color{orange}Orange}$$  colored)
-- <b>Example sentences</b>. ($${\color{purple}Purple}$$  colored)
+- <b>Example sentences</b>. ($${\color{purple}Purple}$$  colored)  
+
+*Example*:
+
+
+D:\github\ydict_bat\>yd anthology
+
+anthology
+
+英/ ænˈθɒlədʒi /美/ ænˈθɑːlədʒi /
+
+n.
+（诗、文、曲、画等的）选集
+
+
+It's a longish poem, not in your anthology, but you can find it in The Complete Yeats.
+这是一首很长的诗，你们的选集里没有，但在《叶芝诗选》里可以找到。
+You have just one of them in your anthology, but it is one of the greatest. It is on page 130.
+你们选集里只有一首，但是它是最好的之一。它在130页。
+Having said that, there's really nothing so dead as The Norton Anthology of English Literature, or ponderous.
+说了这么多，其实没有什么比《诺顿英国文学选集》更死板，或者更沉闷的了。
 
 # prerequisite
 
