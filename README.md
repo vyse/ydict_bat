@@ -17,7 +17,7 @@ if in English, the output will be:
 *Example*:
 
 
-D:\github\ydict_bat\>yd anthology
+`D:\github\ydict_bat\>yd anthology
 
 anthology
 
@@ -32,7 +32,7 @@ It's a longish poem, not in your anthology, but you can find it in The Complete 
 You have just one of them in your anthology, but it is one of the greatest. It is on page 130.
 你们选集里只有一首，但是它是最好的之一。它在130页。
 Having said that, there's really nothing so dead as The Norton Anthology of English Literature, or ponderous.
-说了这么多，其实没有什么比《诺顿英国文学选集》更死板，或者更沉闷的了。
+说了这么多，其实没有什么比《诺顿英国文学选集》更死板，或者更沉闷的了。`
 
 # prerequisite
 
