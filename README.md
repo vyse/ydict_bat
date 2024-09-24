@@ -5,14 +5,14 @@ A command line youdao dictionary tool under windows.
 Download the yd.bat file and set system path variable for it.
 
 # usage
-yd <word>
+yd \<word\>
 
-The <word> parameter could be in English or Chinese.
+The \<word\> parameter could be in English or Chinese.
 if in English, the output will be:
 
-- Pronouciations in English and American English. (Green Colored)
-- Interpretations. (Orange colored)
-- Example sentences. (Purple colored)
+- Pronouciations in English and American English. (<font color='#32CD32'><b>Green</font> Colored)
+- Interpretations. (<font color='orange'><b>Orange</font>  colored)
+- Example sentences. (<font color='purple'><b>Purple</font>  colored)
 
 # prerequisite
 
