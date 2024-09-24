@@ -20,4 +20,4 @@ if in English, the output will be:
 - curl : for fetching html content from website
 - pup : css selector
 - sed : for removing \n
-  all the tools above could be easily install with scoop/choco, e.g. scoop install jq
+all the tools above could be easily install with scoop/choco, e.g. scoop install jq
