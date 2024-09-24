@@ -43,3 +43,5 @@ Having said that, there's really nothing so dead as The Norton Anthology of Engl
 - sed : for removing \n<br />
 
 all above tools could be easily installed with scoop/choco, e.g. `scoop install jq`
+
+*When running yd.bat, the current path should be writable, because ydict_bat creates some temporary files when running.*
