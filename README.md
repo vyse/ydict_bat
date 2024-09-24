@@ -19,5 +19,5 @@ if in English, the output will be:
 - jq : for urlencoding
 - curl : for fetching html content from website
 - pup : css selector
-- sed : for removing \n
+- sed : for removing \n<br />
 all the tools above could be easily install with scoop/choco, e.g. scoop install jq
