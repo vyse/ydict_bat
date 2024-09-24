@@ -16,7 +16,7 @@ if in English, the output will be:
 
 *Example*:
 
-```bat
+```
 D:\github\ydict_bat\>yd anthology
 
 anthology
