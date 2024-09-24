@@ -5,7 +5,7 @@ A command line youdao dictionary tool under windows.
 Download the yd.bat file and set system path variable for it.
 
 # usage
-yd \<word\>
+`yd \<word\>`
 
 The \<word\> parameter could be in English or Chinese.
 if in English, the output will be:
@@ -20,4 +20,5 @@ if in English, the output will be:
 - curl : for fetching html content from website
 - pup : css selector
 - sed : for removing \n<br />
-all the tools above could be easily install with scoop/choco, e.g. scoop install jq
+
+all above tools could be easily installed with scoop/choco, e.g. `scoop install jq`
